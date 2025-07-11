@@ -5,6 +5,7 @@
     "account": "hardhat run scripts/listAccount.ts",
     "account:generate": "hardhat run scripts/generateAccount.ts",
     "account:import": "hardhat run scripts/importAccount.ts",
+    "account:transfer": "hardhat run scripts/transferFromDeployer.ts",
     "chain": "hardhat node --network hardhat --no-deploy",
     "check-types": "tsc --noEmit --incremental",
     "compile": "hardhat compile",
@@ -21,6 +22,7 @@
   },
   "dependencies": {
     "@inquirer/password": "^4.0.2",
+    "@inquirer/prompts": "^7.6.0",
     "@openzeppelin/contracts": "^4.9.5",
     "@typechain/ethers-v6": "~0.5.1",
     "dotenv": "~16.4.5",
