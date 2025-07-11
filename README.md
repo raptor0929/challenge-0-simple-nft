@@ -252,3 +252,5 @@ To know more about its features, check out our [website](https://scaffoldeth.io)
 We welcome contributions to Scaffold-ETH 2!
 
 Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/scaffold-eth-2/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to Scaffold-ETH 2.
+
+https://www.canva.com/design/DAGs1Q3UVf4/CkISqkDENtDC9L76rXpHEw/view?utm_content=DAGs1Q3UVf4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2580eeb739
