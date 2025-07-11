@@ -1,3 +1,7 @@
+Workshop Arbitrum
+
+https://docs.google.com/document/d/1E41bdEC87Zhf0eZz8aUqwPmudt3Rx4JdZEQGwsMcSmo/edit?tab=t.0
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
